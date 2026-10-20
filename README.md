@@ -1,2 +1,2 @@
-# Smart-City-Surveillence-AI
-AI weopen detection using YOLO V5
+# Smart-City-Surveillance-AI
+AI weapon detection using YOLO V5
